@@ -1,3 +1,7 @@
+Content/SuperGrid/*
+Content/Materialize/*
+Content/StarterContent/*
+Content/ThirdPersonCharacterTemplate/*
 # Visual Studio 2015 user specific files
 .vs/
 
